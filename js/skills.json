@@ -24,6 +24,7 @@
         {"Python": 15}, 
         {"Arduino IDE": 20}, 
         {"Rstudio": 20}, 
-        {"Statistics": 25}
+        {"Statistics": 25}, 
+        {"Linux": 25}
     ] 
 }   

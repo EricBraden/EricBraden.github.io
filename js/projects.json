@@ -4,9 +4,9 @@
         "thumbnailCaption":"Stanza Poetry", 
         "projectTitle":"Stanza Poetry Creation Site", 
         "projectDate":"February, 2021", 
-        "projectSummary":"final project showcasing the full stack of skills taught at WCCI", 
+        "projectSummary":"Website to assist authors in creating poetry. Features include: text editor, example poems, persistent storage of user's poems in the database, word helper to find rhyming words, and more. Final project showcasing the full stack of skills taught at WCCI", 
         "projectSkillsUsed":"Java, Spring, Hibernate, JPA, JavaScript, MVC, HTML, CSS, Flexbox, Grid, TDD, Agile (Scrum), Object Oriented Programming (OOP), AJAX, JSON, Restful APIs, Responsive Design / Mobile, Structured Query Language (SQL), Relational Databases, Source Control / Git", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Stanza-Poetry-Site-final-project"}, 
 
         {"id":"project7", 
         "thumbnailCaption":"Jukebox Manager", 
@@ -14,7 +14,7 @@
         "projectDate":"January, 2021", 
         "projectSummary":"Website to add and remove songs and albums from a relational database. Fetch API posts and gets data as needed. ", 
         "projectSkillsUsed":"Java, HTML, CSS, JavaScript", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Jukebox-Manager-Site"}, 
 
         {"id":"project6", 
         "thumbnailCaption":"Donut Clicker Game", 
@@ -22,7 +22,7 @@
         "projectDate":"January, 2021", 
         "projectSummary":"Browser-based game where the player tries to accumulate as many donuts as possible. The player then uses donuts to purchase upgrades...ad nauseum", 
         "projectSkillsUsed":"JavaScript, HTML, CSS", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Donut-Clicker-Game"}, 
         
         {"id":"project5", 
         "thumbnailCaption":"Music Review Site", 
@@ -30,7 +30,7 @@
         "projectDate":"December, 2021", 
         "projectSummary":"Website allowing users to add and remove album information and leave reviews. ", 
         "projectSkillsUsed":"Java, HTML, CSS, JavaScript, Hibernate, Spring MVC, Java Persistence API, Relational Databases, Agile methodologies", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Music-Review-Site"}, 
 
         {"id":"project4", 
         "thumbnailCaption":"Portfolio", 
@@ -46,7 +46,7 @@
         "projectDate":"December, 2020", 
         "projectSummary":"Many virtual pets to be cared for, fed, and added and removed from the database. ", 
         "projectSkillsUsed":"Java, Object Oriented Programming", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Virtual-Pet-Shelter"}, 
 
         {"id":"project2", 
         "thumbnailCaption":"Virtual Pet Amok", 
@@ -54,7 +54,7 @@
         "projectDate":"November, 2020", 
         "projectSummary":"Virtual pet game extended to include robotic pets. ", 
         "projectSkillsUsed":"Java, Object Oriented Programming", 
-        "gitHubRepoAddress":""}, 
+        "gitHubRepoAddress":"https://github.com/EricBraden/Virtual-Pet-Shelter-Amok"}, 
 
         {"id":"project1", 
         "thumbnailCaption":"Virtual Pet", 
@@ -62,6 +62,6 @@
         "projectDate":"November, 2020", 
         "projectSummary":"Tamagotchi-styled virtual pet. User feeds and cares for the pet via text inputs.", 
         "projectSkillsUsed":"Java, Object Oriented Programming", 
-        "gitHubRepoAddress":""}
+        "gitHubRepoAddress":"https://github.com/EricBraden/Virtual-Pet"}
     ]
 }
