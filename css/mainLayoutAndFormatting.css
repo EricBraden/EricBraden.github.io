@@ -80,12 +80,10 @@ main{
 }
 
 main > section {
-    /* padding: 150px 0px; */
-    /* padding: 25px; */
     padding-top: 125px;
     margin: 0px 0px;
+    font-size: 20px;
     text-align: center;
-    /* border: 1px solid white; */
 }
 
 .sectionHeading {
