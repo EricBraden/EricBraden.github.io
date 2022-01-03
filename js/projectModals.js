@@ -133,7 +133,7 @@ function createOneModal(
 
         var newImg = document.createElement('img');
         newImg.classList.add('modalImage');
-        newImg.setAttribute('src', `./images/${projectFileName}.png`);
+        newImg.setAttribute('src', `./images/big-${projectFileName}.png`);
         newDivForThisProject.append(newImg);
 
         var newBigProjectSummaryDiv = document.createElement('div');
