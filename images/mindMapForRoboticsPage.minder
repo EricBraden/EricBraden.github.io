@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Default" index="4"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-790.82786801959526" y="-871.26905293409413" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="451.04329160357975" posy="629.96668477003163" maxwidth="200" width="209" height="82" side="left" fold="false" treesize="1246.0000000000005" layout="To right">
+      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename>Humanoid Robot with Artificial Intelligence and Biomimetic Features</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="37" posx="760.04329160357975" posy="125.96668477003141" maxwidth="200" width="66" height="46" side="right" fold="false" treesize="202" color="#f37329" layout="To right">
+          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Brain</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="45" posx="926.04329160357986" posy="47.966684770031407" maxwidth="200" width="164" height="46" side="right" fold="false" treesize="46" color="#f37329" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Coding (in Python)</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="46" posx="926.04329160357986" posy="93.966684770031407" maxwidth="200" width="133" height="46" side="right" fold="false" treesize="46" color="#f37329" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Raspberry Pi's</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="47" posx="926.04329160357986" posy="139.96668477003141" maxwidth="200" width="147" height="64" side="right" fold="false" treesize="63.999999999999986" color="#f37329" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Arduino's or microcontrollers</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="52" posx="926.04329160357975" posy="203.96668477003141" maxwidth="200" width="207" height="46" side="right" fold="false" treesize="46" color="#f37329" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>GPU for neural networks</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="40" posx="760.04329160357975" posy="317.96668477003141" maxwidth="200" width="58" height="46" side="right" fold="false" treesize="182" color="#f9c440" layout="To right">
+          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Skin</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="43" posx="918.04329160357975" posy="308.96668477003141" maxwidth="200" width="197" height="64" side="right" fold="false" treesize="182" color="#f9c440" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>large array of pressure sensors</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="44" posx="1215.04329160358" posy="249.96668477003141" maxwidth="200" width="222" height="82" side="right" fold="false" treesize="82" color="#f9c440" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>multiplexers and/or microcontrollers to reduce the number of electrodes</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="48" posx="1215.04329160358" posy="340.96668477003146" maxwidth="200" width="202" height="82" side="right" fold="false" treesize="100" color="#f9c440" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>magnets and hall effect sensors embedded in silicone</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="49" posx="1517.04329160358" posy="331.96668477003146" maxwidth="200" width="214" height="100" side="right" fold="false" treesize="100" color="#f9c440" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>voids (air pockets) may be necessary to increase the dynamic range of the sensors</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="20" posx="760.04329160357975" posy="614.96668477003141" maxwidth="200" width="86" height="46" side="right" fold="false" treesize="412" color="#68b723" layout="To right">
+          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Hand(s)</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="21" posx="946.04329160357986" posy="591.96668477003141" maxwidth="200" width="78" height="46" side="right" fold="false" treesize="366" color="#68b723" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>fingers</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="24" posx="1124.04329160358" posy="559.96668477003152" maxwidth="200" width="68" height="46" side="right" fold="false" treesize="302" color="#68b723" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>joints</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="25" posx="1292.04329160358" posy="477.96668477003152" maxwidth="200" width="101" height="46" side="right" fold="false" treesize="138" color="#68b723" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>cartiledge</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="26" posx="1493.04329160358" posy="431.96668477003152" maxwidth="200" width="117" height="46" side="right" fold="false" treesize="46" color="#68b723" layout="To right">
+                          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>teflon(PTFE)</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="27" posx="1493.04329160358" posy="477.96668477003152" maxwidth="200" width="68" height="46" side="right" fold="false" treesize="46" color="#68b723" layout="To right">
+                          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>HDPE</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="28" posx="1493.04329160358" posy="523.96668477003152" maxwidth="200" width="135" height="46" side="right" fold="false" treesize="46" color="#68b723" layout="To right">
+                          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>small bearings</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="32" posx="1292.04329160358" posy="569.96668477003152" maxwidth="200" width="214" height="64" side="right" fold="false" treesize="64" color="#68b723" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>90 degrees of motion (x2 per finger)</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="34" posx="1292.04329160358" posy="633.96668477003141" maxwidth="200" width="211" height="100" side="right" fold="false" treesize="100" color="#68b723" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>145 degrees of motion + up to 30 degrees of lateral movement (1 per finger)</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="35" posx="1603.04329160358" posy="642.96668477003141" maxwidth="200" width="213" height="82" side="right" fold="false" treesize="82.000000000000028" color="#68b723" layout="To right">
+                          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>special c-shaped ball and socket-type joint (also limits torsion)</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="29" posx="1124.04329160358" posy="742.96668477003141" maxwidth="200" width="83" height="46" side="right" fold="false" treesize="64" color="#68b723" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>thumbs</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="33" posx="1307.04329160358" posy="733.96668477003141" maxwidth="200" width="210" height="64" side="right" fold="false" treesize="64" color="#68b723" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>special movements compared to other digits</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="22" posx="946.04329160357986" posy="797.96668477003163" maxwidth="200" width="72" height="46" side="right" fold="false" treesize="46" color="#68b723" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>bones</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="23" posx="1118.04329160358" posy="797.96668477003163" maxwidth="200" width="146" height="46" side="right" fold="false" treesize="46" color="#68b723" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>3d printed parts</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="3" posx="760.04329160357975" posy="999.96668477003163" maxwidth="200" width="78" height="46" side="right" fold="false" treesize="358.00000000000023" color="#c6262e" layout="To right">
+          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Arm(s)</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="938.04329160357986" posy="889.96668477003163" maxwidth="200" width="87" height="46" side="right" fold="false" treesize="138" color="#c6262e" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Muscles</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="1125.04329160358" posy="843.96668477003163" maxwidth="200" width="155" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>brushless motors</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="9" posx="1125.04329160358" posy="889.96668477003163" maxwidth="200" width="109" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>r.c. servo's</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="1125.04329160358" posy="935.96668477003163" maxwidth="200" width="187" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>actuators of any type</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="11" posx="938.04329160357986" posy="1036.9666847700319" maxwidth="200" width="68" height="46" side="right" fold="false" treesize="156.00000000000023" color="#c6262e" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Joints</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="13" posx="1106.04329160358" posy="981.96668477003163" maxwidth="200" width="139" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>spherical joints</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="15" posx="1106.04329160358" posy="1027.9666847700319" maxwidth="200" width="192" height="64" side="right" fold="false" treesize="64.000000000000114" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>'LIMS2-AMBIDEX' wrist and elbow</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="51" posx="1106.0432916035797" posy="1091.9666847700319" maxwidth="200" width="91" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>bearings</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="17" posx="938.04329160357986" posy="1146.9666847700319" maxwidth="200" width="87" height="46" side="right" fold="false" treesize="64" color="#c6262e" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Tendons</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="19" posx="1125.04329160358" posy="1146.9666847700319" maxwidth="200" width="120" height="46" side="right" fold="false" treesize="64" color="#c6262e" layout="To right">
+                  <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>kevlar string</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="30" posx="1345.04329160358" posy="1137.9666847700319" maxwidth="200" width="212" height="64" side="right" fold="false" treesize="64" color="#c6262e" layout="To right">
+                      <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>small pulleys (to redirect the paths of lines)</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="31" posx="1657.04329160358" posy="1137.9666847700319" maxwidth="200" width="217" height="64" side="right" fold="false" treesize="64" color="#c6262e" layout="To right">
+                          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>bearings or bushings with grooved wheels</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="36" posx="760.04329160357975" posy="1224.9666847700319" maxwidth="200" width="63" height="46" side="right" fold="false" treesize="92" color="#c6262e" layout="To right">
+          <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Eyes</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="38" posx="923.04329160357986" posy="1201.9666847700319" maxwidth="200" width="87" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>OpenCV</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="50" posx="923.04329160357986" posy="1247.9666847700319" maxwidth="200" width="91" height="46" side="right" fold="false" treesize="46" color="#c6262e" layout="To right">
+              <style linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>cameras</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>

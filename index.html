@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eric Braden's Portfolio</title>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="./css/mainLayoutAndFormatting.css">
+    <link rel="stylesheet" href="./css/projectModals.css">
+</head>
+<body>
+    
+
+    <header>
+        <nav class="header__navBox" id="myJavaScriptStickyMenu">
+            <span id="headerTitle">Eric Braden's Portfolio</span> <br><br>
+            <a href="#aboutMe">about me</a>
+            <a href="#coding">software development</a>
+            <a href="#robotics">robotics</a>
+            <a href="#contact">contact</a>
+        </nav>
+    </header>
+
+
+
+
+    <main>
+        
+        
+        
+        <section id="aboutMe">
+            <div class="sectionHeading">About Me</div>
+            <img class="myPhotograph" src="./images/Whistlers-Mother-Mr-Bean.jpg" alt=""> 
+            <br> <br>
+            I make websites for a living. 
+            As a software developer I have skills in Java web development, R statistical computing, Python, and more.
+            <br> <br>
+            <div id="skillsWordMapDiv"></div>
+        </section>
+        
+        <img class="imgDividerWithFibSpirals-top" src="./images/dividerFibonacciSpirals3.svg" alt="">
+        
+        <section id="coding">
+            <div class="sectionHeading">Software Development Projects</div>
+            <!--https://ggalisky.weebly.com/ has good formatting
+                #Title {
+                    vertical-align: top !important;
+                    color: #484848;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 36px;
+                    text-transform: uppercase;
+                }
+            -->
+            
+            <!--make a grid of projects; insert my coding bootcamp certificate in the timeline;-->
+
+            <div id="section-projects">
+                <div id="div-projectThumbnails"></div>
+            </div>
+
+        </section>
+        
+        <img class="imgDividerWithFibSpirals-top" src="./images/dividerFibonacciSpirals3.svg" alt="">
+        
+        <section id="robotics">
+            <div class="sectionHeading">Robotics</div>
+                Web development was just the beginning for me. 
+                I knew I wanted to learn robotics and artificial intelligence from the start, but web development was the easiest place to start. 
+                After graduating from We Can Code IT, I learned a lot about robotics. The first project I'm working on is a biomimetic hand with pressure sensitive skin. 
+
+        </section>
+        
+        <img class="imgDividerWithFibSpirals-top" src="./images/dividerFibonacciSpirals3.svg" alt="">
+        
+        <section id="contact">
+            <div class="sectionHeading">Contact Information</div>
+        </section>
+
+        <img class="imgDividerWithFibSpirals-top" src="./images/dividerFibonacciSpirals3.svg" alt="">
+
+    </main>
+
+
+    <footer>
+        <script type="text/javascript">document.write("© " + new Date().getFullYear() + ", Eric Braden");</script>
+    </footer>
+
+
+
+    <script src="./js/projectModals.js" type="module"></script>
+    <script src="./js/skillsWordMap.js" type="module"></script>
+</body>
+</html>

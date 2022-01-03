@@ -1,0 +1,29 @@
+{
+    "skillsAndFontSizes": [
+        {"My Skills: ": 30}, 
+        {"Java": 30}, 
+        {"Spring": 20}, 
+        {"Hibernate": 20},
+        {"JPA": 20},
+        {"JavaScript": 30},
+        {"MVC": 20},
+        {"HTML": 30},
+        {"CSS": 25},
+        {"Flexbox": 20},
+        {"Grid": 20},
+        {"TDD": 20},
+        {"Agile (Scrum)": 20},
+        {"Object Oriented Programming (OOP)": 20},
+        {"AJAX": 20},
+        {"JSON": 20},
+        {"Restful APIs": 20},
+        {"Responsive Design / Mobile": 20},
+        {"Structured Query Language (SQL)": 20},
+        {"Relational Databases": 20},
+        {"Source Control / Git": 20}, 
+        {"Python": 15}, 
+        {"Arduino IDE": 20}, 
+        {"Rstudio": 20}, 
+        {"Statistics": 25}
+    ] 
+}   

@@ -1,0 +1,67 @@
+{
+    "allProjects": [
+        {"id":"project8", 
+        "thumbnailCaption":"Stanza Poetry", 
+        "projectTitle":"Stanza Poetry Creation Site", 
+        "projectDate":"Nov...codingbootcamp dates (see gitHub)", 
+        "projectSummary":"final project showcasing the full stack of skills taught at WCCI", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project7", 
+        "thumbnailCaption":"Jukebox Manager", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project6", 
+        "thumbnailCaption":"Donut Clicker Game", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+        
+        {"id":"project5", 
+        "thumbnailCaption":"Music Review Site", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project4", 
+        "thumbnailCaption":"Portfolio", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project3", 
+        "thumbnailCaption":"Virtual Pet Shelter", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project2", 
+        "thumbnailCaption":"Virtual Pet Amok", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}, 
+
+        {"id":"project1", 
+        "thumbnailCaption":"Virtual Pet", 
+        "projectTitle":"TitleGoesHere", 
+        "projectDate":"DateGoesHere", 
+        "projectSummary":"summaryGoesHere", 
+        "projectSkillsUsed":"Java, HTML, CSS, JavaScript, ...more skills go here", 
+        "gitHubRepoAddress":"https://www.github.com"}
+    ]
+}
