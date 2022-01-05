@@ -17,17 +17,19 @@ createModalBackground();
 
 function growModalFromCursor(thisModal) {
     setModalTransitionTime(thisModal, 0);
+    let viewportWidth = window.innerWidth;
+    let viewportHeight = window.innerHeight;
+    resizeModal(thisModal, viewportWidth-(viewportWidth*0.3), viewportHeight-(viewportHeight*0.3)) // to fill most of center of screen (-30%, and centered by dividing in half)
+    moveModal(thisModal, ((viewportWidth/2)-(viewportWidth-(viewportWidth*0.3))/2), ((viewportHeight/2)-(viewportHeight-(viewportHeight*0.3))/2)); // to center of screen (subtract original values)
     // resizeModal(thisModal, 0, 0) // to 0 x 0 px
     thisModal.style.transform = 'scale(0)';
-    moveModal(thisModal, mouseX, mouseY)
+    // moveModal(thisModal, mouseX, mouseY)
     setTimeout(()=>{ // need this to work properly
-        let viewportWidth = window.innerWidth;
-        let viewportHeight = window.innerHeight;
         setModalTransitionTime(thisModal, 700);
         showModal(thisModal);
         thisModal.style.transform = 'scale(1)';
-        resizeModal(thisModal, viewportWidth-(viewportWidth*0.3), viewportHeight-(viewportHeight*0.3)) // to fill most of center of screen (-30%, and centered by dividing in half)
-        moveModal(thisModal, ((viewportWidth/2)-(viewportWidth-(viewportWidth*0.3))/2), ((viewportHeight/2)-(viewportHeight-(viewportHeight*0.3))/2)); // to center of screen (subtract original values)
+        setTimeout(() => {
+        }, 702);
     }, 1)
 }
 
