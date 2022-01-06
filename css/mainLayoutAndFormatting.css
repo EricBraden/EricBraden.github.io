@@ -82,7 +82,7 @@ main{
 main > section {
     padding-top: 125px;
     margin: 0px 0px;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -104,4 +104,13 @@ main > section {
     width: 100%;
     /* margin-top: 5px; */
     margin-bottom: 33px;
+}
+
+.projectThumbnailCaptionDiv {
+    font-size: 20px;
+}
+
+.projectModal {
+    display: grid;
+    grid-template-columns: auto 300px;
 }
