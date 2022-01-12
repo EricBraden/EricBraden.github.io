@@ -1,5 +1,6 @@
 
 #div-projectThumbnails {
+    cursor: pointer;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(4, 285px);
@@ -7,6 +8,7 @@
 }
 
 .projectThumbnail{
+    cursor: pointer;
     margin: 45px 15px 15px 15px;
     height: 250px;
     transition: transform .1s ease;
@@ -21,6 +23,7 @@
 }
 
 .projectThumbnailCaptionDiv {
+    cursor: pointer;
     position: absolute;
     left: 2px;
     height: auto;
