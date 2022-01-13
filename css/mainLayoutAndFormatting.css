@@ -35,7 +35,7 @@ header, main, footer {
 }
 
 header{
-    z-index: 10;
+    z-index: 8;
     display: grid;
     grid-template-rows: auto;
     justify-content: center;
@@ -80,8 +80,8 @@ main{
 }
 
 main > section {
-    padding-top: 125px;
     margin: 0px 0px;
+    margin-top: 65px;
     font-size: 30px;
     text-align: center;
 }
@@ -101,8 +101,7 @@ main > section {
 
 
 .imgDividerWithFibSpirals-top {
-    width: 100%;
-    /* margin-top: 5px; */
+    width: 1140px;
     margin-bottom: 33px;
 }
 
@@ -113,4 +112,19 @@ main > section {
 .projectModal {
     display: grid;
     grid-template-columns: auto 300px;
+}
+
+
+a {color: rgb(255, 255, 255);}
+a:hover {background-color: rgb(255, 255, 255); color: black;}
+
+.invisibleDivToGiveRoomForContactScrolling {
+    width: 100%;
+    height: 650px;
+    text-align: center;
+}
+
+#sunImg {
+    margin: auto;
+    width: 10vw;
 }

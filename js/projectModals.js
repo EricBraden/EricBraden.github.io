@@ -19,8 +19,8 @@ function growModalFromCursor(thisModal) {
     setModalTransitionTime(thisModal, 0);
     let viewportWidth = window.innerWidth;
     let viewportHeight = window.innerHeight;
-    resizeModal(thisModal, viewportWidth-(viewportWidth*0.3), viewportHeight-(viewportHeight*0.3)) // to fill most of center of screen (-30%, and centered by dividing in half)
-    moveModal(thisModal, ((viewportWidth/2)-(viewportWidth-(viewportWidth*0.3))/2), ((viewportHeight/2)-(viewportHeight-(viewportHeight*0.3))/2)); // to center of screen (subtract original values)
+    resizeModal(thisModal, (0.7 * viewportWidth), (0.7 * viewportHeight)) // to fill most of center of screen (-30%, and centered by dividing in half)
+    moveModal(thisModal, (0.15 * viewportWidth), ((viewportHeight/2)-(viewportHeight-(viewportHeight*0.3))/2)); // to center of screen (subtract original values)
     // resizeModal(thisModal, 0, 0) // to 0 x 0 px
     thisModal.style.transform = 'scale(0)';
     // moveModal(thisModal, mouseX, mouseY)
@@ -65,6 +65,7 @@ function moveModal(divToMove, x, y){
 function resizeModal(thisModal, newXDim, newYDim){
     thisModal.style.width = `${newXDim}px`;
     thisModal.style.height = `${newYDim}px`;
+    // thisModal.style.height = `auto`;
 }
 
 

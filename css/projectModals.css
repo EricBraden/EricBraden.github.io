@@ -67,7 +67,7 @@
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.692);
-    z-index: 1;
+    z-index: 9;
 }
 
 
@@ -77,19 +77,23 @@
 
 
 .projectModal {
+    overflow-x: hidden;
+    overflow-y: auto;
     color: black;
     text-align: left;
     width: 0px;
     height: 0px;
     background-color: rgb(255, 255, 255);
-    z-index: 2;
+    z-index: 10;
     position: fixed;
     display: grid;
-    grid-template-columns: 55% 45%;
+    grid-template-areas: "a b";
+    grid-template-columns: 35.35vw 35vw;
 }    
 
 .modalImage {
-    height: 100%;
+    width: 100%;
+    height: auto; 
 }
 
 .close {
@@ -109,7 +113,9 @@
     cursor: pointer;
   } 
 
-
+.newBigProjectSummaryDiv {
+    padding: 20px; 
+}
 
 .modalTitle {
     font-size: 45px;

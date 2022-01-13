@@ -1,0 +1,54 @@
+@media screen and (max-width: 1070px) {
+    .projectModal {
+        grid-template-columns: 100%;
+        grid-template-areas: 
+        "a"
+        "b";
+        height: auto;
+        padding-top: 20px;
+    }
+    .modalImage {
+        border: 1px solid silver;
+        width: 50%;
+        height: auto;
+        margin: auto;
+    }
+    .newBigProjectSummaryDiv {
+        height: auto;
+    }
+
+    header, main, footer {
+        max-width: 70vw;
+        min-width: 500px;
+    }
+    section {
+        background-color: rgba(1, 1, 1, 0.664);
+    }
+
+    .imgDividerWithFibSpirals-top {
+        width: 70vw;
+        min-width: 500px;
+    }
+    #sunImg {
+        width: 10vw;
+    }
+    #div-projectThumbnails {
+        justify-content: center;
+        grid-template-columns: repeat(3, 285px);
+    }
+    
+}
+
+@media screen and (max-width: 750px){
+    #div-projectThumbnails {
+        justify-content: center;
+        grid-template-columns: repeat(2, 285px);
+    }
+}
+
+@media screen and (max-width: 450px){
+    #div-projectThumbnails {
+        justify-content: center;
+        grid-template-columns: repeat(1, 285px);
+    }
+}
