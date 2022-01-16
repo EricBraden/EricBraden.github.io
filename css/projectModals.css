@@ -150,3 +150,6 @@
 .modalGitHubRepoAddress a {
     color: black;
 }
+.modalGitHubRepoAddress a:hover {
+    background-color: yellow;
+}
