@@ -87,9 +87,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(179, 255, 249);
-    /* background-color: rgb(0, 255, 0); */
-    /* color: white; */
+    color: white;
+    background-color: rgb(0, 0, 128);
 }
 
 @media (min-width: 756px) {
@@ -156,9 +155,9 @@ nav a:hover {
 
 .highlighted {
     font-weight: bold;
-    background-color: rgb(179, 255, 255);
-    /* font-size: 1.05em; */
-    border: 2px solid black;
+    color: white;
+    background-color: rgb(0, 0, 128);
+    border: 2px solid rgb(0,255,255);
 }
 
 
