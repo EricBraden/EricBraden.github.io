@@ -3,69 +3,120 @@
 }
 
 body {
-    /* background-image: url('../images/fibonacci-spiral-bar-vertical.svg'); */
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-color:black; */
     background-attachment: fixed;
-    font-family: 'Times New Roman', Times, serif;
-    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family: 'Times New Roman', Times, serif; */
 }
 
+#bioMain {
+    text-indent:40px;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 50px;
+    padding: 20px;
+}
+.boxLandingPage {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    padding: 20px 60px 0px 60px;
+
+    border: 1px solid black;
+    background-color: white;
+}
+.boxBio, .boxContact {
+    width: 80vw;
+    min-height: 90vh;
+    margin: 30px auto;
+}
+
+#parentEl {
+    margin-top: 50px;
+}
+
+.boxProj{
+    width: 80vw;
+    min-height: 90vh;
+    margin: 30px auto;
+}
 
 header {
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
     font-size: 2em;
-    margin: auto;
+    margin: 0px auto    ;
     text-align: center;
     background-color: white;
     width: fit-content;
+    padding: 20px 0px 0px 0px;
 }
 #subHeading {
-    display: block;
+    font-size: 1.2em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block; 
     width: fit-content;
-    margin: auto;
+    padding: 0px 0px 0px 0px;
+    margin: 20px auto 15px auto;
     background-color: white;
     width: fit-content;
 }
 
 nav {
     font-size: 1.5em;
-    margin: 22px auto 40px auto;
+    margin: 0px auto 0px auto;
     text-align: center;
     background-color: white;
-    width: fit-content;
 }
 
 nav a {
-    border-radius: 5px;
-    padding: 0px 2px;
+    /* text-indent: 0px; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: black;
     font-size: 0.8em;
     text-decoration: none;
     text-transform: uppercase;
+    /* background-color: rgb(243, 255, 255); */
+    /* border-radius: 15px; */
+    padding: 1px 7px;
+    margin: 15px 15px 0px 15px;
+    border: 1px solid black;
+    display: inline-block;
+    width: 7em;
 }
 
 nav a:hover {
-    background-color: rgb(255, 255, 0);
+    background-color: rgb(179, 255, 249);
+    /* background-color: rgb(0, 255, 0); */
     /* color: white; */
 }
 
-#bioMain {
-    margin: 20px 100px 50px 100px;
-    text-indent:40px
+@media (min-width: 756px) {
+    .oneProject {
+        display: flex;
+        flex-direction: row;
+        margin: 20px 100px 50px 100px;
+    }
 }
-#contactMain{
-    margin: 20px 100px 50px 100px;
-    text-indent:40px;
-}
+@media (max-width: 755px) {
+    .oneProject {
+        display: flex;
+        flex-direction: column;
+        margin: 100px auto;
+    }
 
+    .imgLink{
+        text-align: center;
+    }
+}
 .oneProject {
-    display: flex;
-    flex-direction: row;
-    margin: 20px 100px 50px 100px;
-    border: 1px solid black;
+    border: 1px solid rgb(199, 199, 199);
     background-color: white;
     padding: 11px;
+    box-shadow: 5px 5px 5px black;
+    min-width: 163px;
 }
 
 .projectThumbnail {
@@ -105,5 +156,25 @@ nav a:hover {
 }
 
 .highlighted {
-    background-color: yellow;
+    font-weight: bold;
+    background-color: rgb(179, 255, 255);
+    /* font-size: 1.05em; */
+    border: 2px solid black;
+}
+
+
+#resumeMain{
+    height: 90vh;
+}
+.pdfResumeBox {
+    /* width: 80vw; */
+    /* max-height: 100vh; */
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    margin: 30px auto 30px auto;
+}
+
+.dropShadow711 {
+    box-shadow: 7px 7px 7px black, 11px 11px 16px black;
 }

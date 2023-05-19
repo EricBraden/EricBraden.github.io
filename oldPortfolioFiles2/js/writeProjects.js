@@ -5,11 +5,11 @@ const projectsJSON = {
         'picUrl':'../images/thumbnail01.png', 
         'projectDate':'currently active, 2022-present', 
         'summary':'A biomimetic robot hand that uses cable-driven fingers and high-resolution tactile sensors.', 
-        'skills':'Python, C++, Computer Aided Drafting (CAD), mechanical design, 3D printing, kinematics, absolute optical encoders, modified srevos, electronics, microcontrollers, and more...'
+        'skills':'Python, C++, Computer Aided Drafting (CAD), mechanical design, 3D printing, kinematics, absolute optical encoders made from scratch, modified srevos, electronics, microcontrollers, and more...'
     },
     'codingBootcampProject07': {
         'name':'Poetry Editor', 
-        'pageUrl':'', 
+        'pageUrl':'https://github.com/PhoenixRisen500/FinalProject-Poetry-Creation-Site', 
         'picUrl':'../images/thumbPoetryEditor.png', 
         'projectDate':'Mar., 2020 (coding bootcamp final project)', 
         'summary':'Poetry creation website showcasing the full stack of skills learned at \"We Can Code IT\". Features include: text editor with formatting, example of different types of poems, word search tool to find similar sounding or rhyming words. ', 
@@ -73,7 +73,6 @@ for (thisProject in projectsJSON){
     newProject.classList.add('oneProject');
 
     var newImgLink = document.createElement('a');
-    newImgLink.classList.add('imgLink');
     var newImage = document.createElement('img');
     newImage.src = `${projectsJSON[thisProject].picUrl}`;
     newImage.classList.add('projectThumbnail');
