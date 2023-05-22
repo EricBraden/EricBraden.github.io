@@ -1,7 +1,7 @@
 const projectsJSON = {
     'roboHand': {
         'name':'Robotic Hand', 
-        'pageUrl':'./projects/roboticHand.html', 
+        'pageUrl':'https://github.com/EricBraden/roboticHand', 
         'picUrl':'../images/thumbnail01.png', 
         'projectDate':'currently active, 2022-present', 
         'summary':'A biomimetic robot hand that uses cable-driven fingers and high-resolution tactile sensors.', 
@@ -9,7 +9,7 @@ const projectsJSON = {
     },
     'codingBootcampProject07': {
         'name':'Poetry Editor', 
-        'pageUrl':'', 
+        'pageUrl':'https://github.com/PhoenixRisen500/FinalProject-Poetry-Creation-Site', 
         'picUrl':'../images/thumbPoetryEditor.png', 
         'projectDate':'Mar., 2020 (coding bootcamp final project)', 
         'summary':'Poetry creation website showcasing the full stack of skills learned at \"We Can Code IT\". Features include: text editor with formatting, example of different types of poems, word search tool to find similar sounding or rhyming words. ', 
